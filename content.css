@@ -1,0 +1,11 @@
+.hindi-translation {
+    font-family: 'Noto Sans Devanagari', 'Arial Unicode MS', sans-serif;
+    color: #333;
+    border-bottom: 1px dotted #ccc;
+    transition: all 0.3s ease;
+  }
+  
+  .hindi-translation:hover {
+    background-color: #f0f8ff;
+    border-bottom-color: #0066cc;
+  }
